@@ -1,0 +1,6 @@
+{
+  "name": "Islem Elios App Installer",
+  "description": "Professional web page for Elios App, offering rapid installation of Microsoft applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
